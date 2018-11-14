@@ -1,6 +1,3 @@
-# ignore .dot files
-.*
-
 # ignore everything
 /*
 *.*
@@ -8,9 +5,6 @@
 # add gitignore file
 !/.gitignore
 
-# ignore temp/del files
-*/temp.*
-*/del*
 
 # only selected folders will be uploaded
 !/Codeforces/
@@ -21,3 +15,7 @@
 !/**/*.c
 !/**/*.cpp
 !/**/*.py
+
+# ignore temp/del files
+*/temp*
+*/del*

@@ -1,0 +1,19 @@
+# ignore .dot files
+.*
+
+# ignore everything
+/*
+*.*
+
+# add gitignore file
+!/.gitignore
+
+# only selected folders will be uploaded
+!/Codeforces/
+!/LightOj/
+!/Uva/
+
+# only c/c++/python files will be added
+!/**/*.c
+!/**/*.cpp
+!/**/*.py

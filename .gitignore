@@ -10,6 +10,7 @@
 !/Codeforces/
 !/LightOj/
 !/Uva/
+!/Project Euler/
 
 # only c/c++/python files will be added
 !/**/*.c
@@ -17,5 +18,5 @@
 !/**/*.py
 
 # ignore temp/del files
-*/temp*
-*/del*
+**/temp*
+**/del*
